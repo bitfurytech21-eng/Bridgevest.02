@@ -1,45 +1,3 @@
-<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="#0d0f1a"/>
-  <text x="50%" y="55%" font-size="40" fill="#00bfff" font-family="Arial" text-anchor="middle">B</text>
-</svg>
-<!-- login.html --><!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bridgevest Login</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <div class="auth-container">
-    <h2>Login to Bridgevest</h2>
-    <form>
-      <input type="email" placeholder="Email" required>
-      <input type="password" placeholder="Password" required>
-      <button class="btn" type="submit">Login</button>
-    </form>
-    <p>Don't have an account? <a href="signup.html">Sign up</a></p>
-  </div>
-</body>
-</html><!-- signup.html --><!DOCTYPE html><html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bridgevest Sign Up</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <div class="auth-container">
-    <h2>Create Your Account</h2>
-    <form>
-      <input type="text" placeholder="Full Name" required>
-      <input type="email" placeholder="Email" required>
-      <input type="password" placeholder="Password" required>
-      <button class="btn" type="submit">Sign Up</button>
-    </form>
-    <p>Already have an account? <a href="login.html">Login</a></p>
-  </div>
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -161,7 +119,7 @@
     <nav>
       <a href="#how">How It Works</a>
       <a href="#features">Features</a>
-      <a href="#why">Why Nigeria</a>
+      <a href="#why">Why invest on bridgevest</a>
       <a href="#faq">FAQ</a>
       <a href="#contact">Contact</a>
     </nav>
@@ -208,10 +166,47 @@
       </div>
     </div>
   </section>
-
+<!-- login.html --><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bridgevest Login</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="auth-container">
+    <h2>Login to Bridgevest</h2>
+    <form>
+      <input type="email" placeholder="Email" required>
+      <input type="password" placeholder="Password" required>
+      <button class="btn" type="submit">Login</button>
+    </form>
+    <p>Don't have an account? <a href="signup.html">Sign up</a></p>
+  </div>
+</body>
+</html><!-- signup.html --><!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bridgevest Sign Up</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="auth-container">
+    <h2>Create Your Account</h2>
+    <form>
+      <input type="text" placeholder="Full Name" required>
+      <input type="email" placeholder="Email" required>
+      <input type="password" placeholder="Password" required>
+      <button class="btn" type="submit">Sign Up</button>
+    </form>
+    <p>Already have an account? <a href="login.html">Login</a></p>
+  </div>
+</body>
+</html>
   <section id="why">
-    <h3>Why Bridgevest for Nigerians</h3>
-    <p>Nigeria is one of the fastest-growing crypto markets. Bridgevest provides a safe, automated, and transparent trading platform that fits perfectly into your busy lifestyle — allowing your investments to grow while you focus on what matters most.</p>
+    <h3>Why invest on bridgevest</h3>
+    <p>Bridgevest is one of the fastest-growing crypto Difi platform providing a safe, automated, and transparent trading web that fits perfectly into your busy lifestyle — allowing your investments to grow while you focus on what matters most.</p>
   </section>
 
   <section id="faq">
@@ -224,9 +219,8 @@
     <h3>Contact & Support</h3>
     <p>Need assistance? Reach us at <a href="mailto:support@bridgevest.io" style="color:#00baff;">support@bridgevest.io</a></p>
   </section>
-
   <footer>
-    © 2025 Bridgevest. All rights reserved. | Built on Solana Blockchain
+    © 2023  Bridgevest. All rights reserved. | Built on Solana Blockchain
   </footer>
 
   <script>
